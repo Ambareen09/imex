@@ -114,9 +114,9 @@ body {
 	font-size: 18px;
 	line-height: 1.7;
 	color: rgba(255, 255, 255, .3);
-	background: #000 url(../images/broken_noise.png) repeat;
+	background: #272222;
 	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {  
-     background: #000 url(../images/broken_noise.png) repeat;
+     background: #272222;
 	}
 
 }
@@ -192,9 +192,9 @@ h1, h2, h3, h4, h5, h6, figure {
 		position: absolute;	
 	}
 	&.scrolled {
-		background: #000 url(../images/broken_noise.png) repeat;
+		background: #272222;
 		@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {  
-	     background: #000 url(../images/broken_noise.png) repeat;
+	     background: #272222;
 		}
 		top: -82px;
 		@media screen and (max-width: $screen-xs) {
@@ -1343,9 +1343,9 @@ box-shadow: 0px 8px 16px -4px rgba(0,0,0,0.13);
 	z-index: 1901;
 	width: 270px;
 	// background: lighten($brand-black, 0%);
-	background: #000 url(../images/broken_noise.png) repeat;
+	background: #272222;
 	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {  
-     background: #000 url(../images/broken_noise.png) repeat;
+     background: #272222;
 	}
 	top: 0;
 	right: 0;

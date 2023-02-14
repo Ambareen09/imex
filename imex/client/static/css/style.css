@@ -15,12 +15,12 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.7;
-  color: rgba(255, 255, 255, 0.3);
-  background: #000 url(../images/broken_noise.png) repeat;
+  color: white;
+  background: #272222;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   body {
-    background: #000 url(../images/broken_noise.png) repeat;
+    background: #272222;
   }
 }
 
@@ -109,12 +109,12 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-nav.scrolled {
-  background: #000 url(../images/broken_noise.png) repeat;
+  background: #272222;
   top: -82px;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .fh5co-nav.scrolled {
-    background: #000 url(../images/broken_noise.png) repeat;
+    background: #272222;
   }
 }
 @media screen and (max-width: 480px) {
@@ -444,7 +444,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-section p {
-  color: rgba(255, 255, 255, 0.3);
+  color: white;
   font-size: 18px;
   line-height: 1.5;
 }
@@ -596,7 +596,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 992px) {
   #fh5co-featured-testimony blockquote .author {
-    color: rgba(255, 255, 255, 0.3);
+    color: white;
   }
 }
 
@@ -1301,7 +1301,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: .3em;
   left: 0;
   font-size: 22px;
-  color: rgba(255, 255, 255, 0.3);
+  color: white;
 }
 .contact-info li a {
   color: #fff;
@@ -1311,7 +1311,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   z-index: 1901;
   width: 270px;
-  background: #000 url(../images/broken_noise.png) repeat;
+  background: #272222;
   top: 0;
   right: 0;
   top: 0;
@@ -1330,7 +1330,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   #fh5co-offcanvas {
-    background: #000 url(../images/broken_noise.png) repeat;
+    background: #272222;
   }
 }
 @media screen and (max-width: 768px) {
